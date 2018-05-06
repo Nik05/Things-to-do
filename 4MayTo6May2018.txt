@@ -1,5 +1,8 @@
 Things planned for this week.
-1-Configure a java project in eclipse
-2-Integration of the above project with github
+1-Configure a java project in eclipse - Done
+2-Integration of the above project with github - Done
 3-Concepts of Lambdas, streams, interfaces and abstraction
 4-Look into open-source projects for contributions (Optional)
+
+Refer the following links for 1 and 2:
+"https://www.concretepage.com/ide/eclipse/getting-started-with-git-and-eclipse-egit-integration-tutorial-using-github"
