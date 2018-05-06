@@ -1,0 +1,4 @@
+1. Learn about creation of a branch from an exisiting eclipse project and how pull requests work
+2. Start using git command line tools in eclipse 
+3. Configure intellij and learn integration with Git
+4. 
