@@ -2,4 +2,10 @@
 2. Start using git command line tools in eclipse 
 3. Configure intellij and learn integration with Git
 4. Setup spark/hadoop
-5.
+
+
+Review:
+Hadoop setup done
+
+Items left:
+Points 1,2 & 3
