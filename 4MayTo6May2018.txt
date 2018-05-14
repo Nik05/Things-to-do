@@ -6,3 +6,10 @@ Things planned for this week.
 
 Refer the following links for 1 and 2:
 "https://www.concretepage.com/ide/eclipse/getting-started-with-git-and-eclipse-egit-integration-tutorial-using-github"
+
+
+Review:
+Points 1 and 2 Done
+
+Left:
+Points 3 and 4
